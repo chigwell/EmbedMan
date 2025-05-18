@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='EmbedMan',
-    version='0.0.2',
+    version='2025.5.180914',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='A tool for managing embeddings for code analysis',

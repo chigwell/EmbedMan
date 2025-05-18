@@ -1,6 +1,7 @@
 [![PyPI version](https://badge.fury.io/py/embedman.svg)](https://badge.fury.io/py/embedman)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://static.pepy.tech/badge/embedman)](https://pepy.tech/project/embedman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
 
 # EmbedMan
 
